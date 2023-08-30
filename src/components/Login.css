@@ -1,0 +1,57 @@
+.logo_image {
+  height: 100px;
+  color: blue;
+}
+.logo_main {
+  justify-content: flex-start;
+  display: flex;
+  align-items: center;
+}
+.logo_text {
+  color: lightskyblue;
+  font-size: 100px;
+  font-weight: 500;
+  margin-left: -27px;
+  /* margin-top: 30px; */
+}
+.text_small {
+  text-align: left;
+}
+
+.text_header {
+  text-align: left;
+}
+.text_header_forgot {
+  text-align: center;
+}
+.forgot_account {
+  color: white !important;
+  background-color: #ff5252 !important;
+}
+.input_field {
+  width: 400px;
+  text-align: flex-start;
+}
+.login_form {
+  margin-left: -150px;
+  padding: 20px;
+}
+.logo_image_main {
+  width: 77%;
+}
+.button_field {
+  margin-left: -210px;
+  margin-top: 30px;
+}
+.logiin_now {
+  background-color: blue;
+  color: white;
+}
+.create_account {
+  background-color: white !important;
+  color: black;
+}
+.button_field_group {
+  margin-left: -270px;
+  margin-top: 30px;
+}

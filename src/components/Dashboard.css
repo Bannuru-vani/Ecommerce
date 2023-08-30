@@ -1,0 +1,51 @@
+.text_home {
+  background-color: #008080;
+}
+.lama_header {
+  background-color: aliceblue;
+  display: flex;
+  padding: 20px;
+  /* margin-top: 30px; */
+  align-items: center;
+  justify-content: space-around;
+}
+.text_lama {
+  margin-right: 204px;
+}
+.shop_now {
+  color: black !important;
+  background-color: transparent;
+  border: 1px solid black !important;
+}
+.products_card :hover {
+  background-color: azure;
+  background-image: hidden;
+}
+.imageBox {
+  position: relative;
+  float: left;
+}
+
+.imageBox .hoverImg {
+  position: absolute;
+  left: 0;
+  top: 0;
+  display: none;
+}
+.categories {
+}
+
+.imageBox:hover .hoverImg {
+  display: block;
+  color: black;
+  background-color: white !important;
+  width: 100%;
+  height: 100%;
+  opacity: 0.5;
+}
+.icons_img {
+  margin-top: 200px;
+  align-items: center;
+  text-align: center;
+  justify-content: center;
+}
